@@ -8,7 +8,7 @@ class User < ActiveRecord::Base
 
   # Virtual attribute for authenticating by either name or email
   # This is in addition to a real persisted field like 'name'
-  attr_accessor :login
+  attr_accessible :name
 
   has_many :links
   validates :name,
