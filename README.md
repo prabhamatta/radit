@@ -6,8 +6,8 @@ My clone reddit app
 - Rails 4.1.5
 
 ### Gems used
-```gem 'devise', '~> 3.3.0' ``` - for user signup, signin, signout, account edit
-``` gem 'bootstrap-sass', '~> 3.2.0.2' ``` - for styling
+- ```gem 'devise', '~> 3.3.0' ``` - for user signup, signin, signout, account edit
+- ``` gem 'bootstrap-sass', '~> 3.2.0.2' ``` - for styling
 
 
 ### Configuration & Database creation
