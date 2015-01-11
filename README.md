@@ -1,5 +1,8 @@
-# radit
-my reddit app
+# Rad-It
+___
+My clone reddit app
 
-Gems used:
-devise - for user signup, signin, signout, account edit
+## Gems used:
+___
+- devise - for user signup, signin, signout, account edit
+- bootstrap-sass - for styling
