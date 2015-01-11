@@ -33,6 +33,8 @@ gem 'bootstrap-sass', '~> 3.2.0.2'
 gem 'acts_as_votable', '~> 0.10.0'
 # ****: for comments on links
 gem 'simple_form', '~>3.0.2'
+# ****: for heroku deployment
+gem 'rails_12factor', group: :production
 
 # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
 gem 'spring',        group: :development
