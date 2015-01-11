@@ -1,5 +1,5 @@
 # Rad-It
-My clone reddit app
+My reddit/hackernews clone app
 
 ### Ruby version
 - Ruby 2.0
