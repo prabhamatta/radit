@@ -21,4 +21,3 @@ bundle exec rake db:migrate
 ### Services (job queues, cache servers, search engines, etc.)
 
 ### Deployment
-
