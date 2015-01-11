@@ -12,7 +12,6 @@ class LinksController < ApplicationController
   # GET /links/1
   # GET /links/1.json
   def show
-    puts @link.inspect
   end
 
   # GET /links/new
