@@ -16,7 +16,6 @@ class User < ActiveRecord::Base
     :case_sensitive => false
   }
 
-
   # def create_login
   #   email = self.email.split(/@/)
   #   login_taken = User.where( :login => email[0]).first
