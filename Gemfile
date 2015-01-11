@@ -29,7 +29,10 @@ gem 'devise', '~> 3.3.0'
 # ****: bootstrap gem for styling
 gem 'bootstrap-sass', '~> 3.2.0.2'
 # ****:
-gem 'protected_attributes'
+# gem 'protected_attributes'
+
+# ****:
+gem 'acts_as_votable', '~> 0.10.0'
 
 # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
 gem 'spring',        group: :development
