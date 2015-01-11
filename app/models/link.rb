@@ -3,4 +3,6 @@ class Link < ActiveRecord::Base
 	# attr_accessible :title, :url
 	acts_as_votable
 
+	has_many :comments, :dependent => :destroy
+
 end

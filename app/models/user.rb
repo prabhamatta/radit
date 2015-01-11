@@ -1,4 +1,5 @@
 class User < ActiveRecord::Base
+  has_many :links, :dependent => :destroy
   # Include default devise modules. Others available are:
   # :confirmable, :lockable, :timeoutable and :omniauthable
   devise :database_authenticatable, :registerable,
@@ -10,7 +11,6 @@ class User < ActiveRecord::Base
   # attr_accessible :name
   acts_as_voter
 
-  has_many :links
   validates :name,
   	:uniqueness => {
     :case_sensitive => false
