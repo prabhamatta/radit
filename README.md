@@ -1,6 +1,6 @@
 # Rad-It
-Reddit Like  App
-Demo: https://rad-it.herokuapp.com
+* Reddit Like  App.
+* Demo: https://rad-it.herokuapp.com
 
 # Features
 - signup, signin
