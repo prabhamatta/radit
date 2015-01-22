@@ -1,5 +1,11 @@
 # Rad-It
-My reddit/hackernews clone app
+Reddit Like  App
+Demo: https://rad-it.herokuapp.com
+
+# Features
+- signup, signin
+- post a link with Description
+- upvotes/downvotes & comments on the posts
 
 ### Ruby version
 - Ruby 2.0
