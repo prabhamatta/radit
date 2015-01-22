@@ -4,7 +4,7 @@ Demo: https://rad-it.herokuapp.com
 
 # Features
 - signup, signin
-- post a link with Description
+- post a link with description
 - upvotes/downvotes & comments on the posts
 
 ### Ruby version
